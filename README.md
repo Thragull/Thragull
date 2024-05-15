@@ -13,6 +13,20 @@
 <h2>My Projects:</h2>
 <a href="https://github.com/Thragull/Jetstream-aviation">✈️ Jetstream Aviation (in progress)</a>
 <p>&emsp;Unifying all standard platforms charter and small regular airlines use in their daily basis improving their employees comfort and productivity while improving the company's safety, security and data integrity</p>
+<h2>Technologies I have experience with</h2>
+<ul>
+    <li><img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-512.png" style="width: 20px; height: 20px"/> HTML5</li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" style="width: 20px; height: 20px"/> CSS3</li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" style="width: 20px; height: 20px"/> Bootstrap</li>
+    <li><img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" style="width: 20px; height: 20px"/> Javascript</li>
+    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" style="width: 20px; height: 20px"/> React</li>
+    <li><img src="https://static-00.iconduck.com/assets.00/react-router-icon-512x279-zswz065s.png" style="width: 25px; height: 20px"/> React Router Dom</li>
+    <li><img src="https://www.svgrepo.com/show/353750/flux.svg" style="width: 25px; height: 20px"/> Flux</li>
+    <li><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" style="width: 20px; height: 20px"/> Jest</li>
+    <li><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="width: 20px; height: 20px"/> Python</li>
+    <li><img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" style="width: 20px; height: 20px"/> Flask</li>
+    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/d/d7/20231226153634%21SQLAlchemy.svg/120px-SQLAlchemy.svg.png" style="width: 20px; height: 25px"/> SQL Alchemy</li>
+</ul>
 <h2>What can I offer❓</h2>
 <ul>
     <li>Leadership</li>
